@@ -1,6 +1,7 @@
-medical-data-analysis-competition
 
-의료 데이터 분석 경진대회 (No-show 예측) Python 기반 의료 데이터 분석 프로젝트
+
+**의료 데이터 분석 경진대회 (No-show 예측) Python 기반 의료 데이터 분석 프로젝트**
+
 
 **프로젝트 개요**
 
